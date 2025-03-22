@@ -130,8 +130,7 @@ footer {
     width: 100px;
 }
 .post:hover{
-    font-weight: bolder;
     font-style: italic;
-    right: 50px;
+    right: 10px;
     position: relative;
 }
